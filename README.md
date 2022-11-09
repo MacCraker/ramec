@@ -11,7 +11,7 @@ ramec is a fork of Crustacean by o7moon, and is a program that allows installing
  ~~- To install, download a build from [Releases](https://github.com/o7Moon/Crustacean/releases). For Windows users, download the .exe file, for linux users download the extensionless file.~~
  ~~- Next, run the executable. For windows users there may be a "Windows protected your PC" popup message. However, this is caused by an unsigned executable, and signing one can cost some money, so for now just to click "More Info" and then "Run anyway". You will only have to do this once.~~
  ~~- Afterwards, if your game is installed via steam, ramec should find the installation directory of crab game. However, double check it and change the directory if it is incorrect. You can then check the checkboxes of the mods you want, and when you press install, it will install BepInEx 577 and the selected mods (if any).~~
- ~~- As there is a custom uri handler, it needs to know the executable location for it to work. If you move the executable, you will need to run it again (you don't need to press install). ~~ builds coming soon
+ ~~- As there is a custom uri handler, it needs to know the executable location for it to work. If you move the executable, you will need to run it again (you don't need to press install).~~ builds coming soon
 
 ## Using a url to install a mod
  - ramec has support for installing a mod using a url. To install a mod/create a url that can install a mod, the format looks like this: `crustacean://installMod/link/to/your/mod.dll`. 
