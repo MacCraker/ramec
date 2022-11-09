@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/o7Moon/Crustacean/raw/main/Crustacean.png">
+    <img src="https://github.com/MacCraker/ramec/raw/main/Crustacean.png">
 </p>
 
 ---
