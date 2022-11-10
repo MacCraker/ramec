@@ -22,7 +22,7 @@ ramec is a fork of Crustacean by o7moon, and is a program that allows installing
 To do this, you will need to enable proton for crab game, and and a dll override for `winhttp.dll`. You can find instructions for adding the dll override here: (https://docs.bepinex.dev/articles/advanced/proton_wine.html). It may be likely that, in the future, the mod can do this automatically.
 
 ### Why "ramec"?
-Take "Crab Game", but make it start with an R (as in rust), so "rab game". Then, might as well remove the first letter of the other word, so "rab ame". Remove the 3rd letter of each so its shorter and combine them to get "rame". Then, add c at the end, because one of my usernames is koteyka, but ramek looks weird so a C is used to substitute the K, and you get "ramec". I only took *slight* insperation from o7 for making the name a combination of a few things.
+Take "Crab Game", but make it start with an R (as in rust), so "rab game". Then, might as well remove the first letter of the other word, so "rab ame". Remove the 3rd letter of each so its shorter and combine them to get "rame". Then, add c at the end for crustacean, what this is a fork of.
 
 ### Why does the program use o7moon's `system uri` instead of the official crate?
 The official crate is 5 years old and fails to compile. There is a fork with updated dependencies which does successfully compile to linux, but it still wouldn't compile to windows, so o7moon made their own.
